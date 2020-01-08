@@ -1,0 +1,94 @@
+2019-07-21 09:14:11 Log begins
+2019-07-21 09:14:13 Log begins
+2019-07-21 09:33:05 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 09:33:05 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 09:33:07 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 09:33:07 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 09:33:09 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 09:33:09 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 09:33:09 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 09:33:09 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 09:38:45 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 09:38:45 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 09:39:10 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 09:39:10 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 09:39:12 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 09:39:12 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 09:41:41 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 09:41:41 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 09:41:41 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 09:41:41 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 09:41:42 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 09:41:42 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 09:50:31 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 09:50:31 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 09:50:33 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 09:50:33 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:02:40 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:02:40 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:02:41 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:02:41 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:08:17 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:08:17 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:08:18 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:08:18 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:08:19 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:08:19 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:12:37 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:12:37 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:12:37 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:12:37 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:12:38 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:12:38 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:12:38 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:12:38 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:12:39 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:12:39 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:12:39 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:12:39 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:12:40 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:12:40 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:12:41 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:12:41 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:12:44 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:12:44 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:12:45 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:12:45 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:12:45 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:12:45 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:12:46 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:12:46 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:12:47 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:12:47 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:12:47 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:12:47 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:15:28 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:15:28 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:54:49 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:54:49 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:54:53 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:54:53 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:59:35 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:59:35 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 10:59:51 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 10:59:51 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 11:07:34 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 11:07:34 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 12:51:50 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-21 12:51:50 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-21 12:52:21 Log ends
+2019-07-21 12:52:31 Log ends
+2019-07-22 16:28:42 Log begins
+2019-07-22 16:28:44 Log begins
+2019-07-22 18:58:01 Log ends
+2019-07-22 18:58:12 Log ends
+2019-07-24 08:42:24 Log begins
+2019-07-24 08:42:26 Log begins
+2019-07-24 08:42:54 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-24 08:42:54 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-24 08:42:56 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-24 08:42:56 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-24 09:02:05 send-SMS request added - sender:tester:13013 172.18.0.1 target:1234 request: ''
+2019-07-24 09:02:05 Sent SMS [SMSC:FAKE] [SVC:tester] [ACT:] [BINF:] [FID:] [META:] [from:13013] [to:1234] [flags:-1:0:-1:-1:-1] [msg:0:] [udh:0:]
+2019-07-24 11:11:43 Log ends
+2019-07-24 11:11:54 Log ends

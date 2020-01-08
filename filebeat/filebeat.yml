@@ -1,0 +1,44 @@
+filebeat.config:
+  modules:
+    path: ${path.config}/modules.d/*.yml
+    reload.enabled: false
+
+filebeat.autodiscover:
+  providers:
+    - type: docker
+      hints.enabled: true
+
+processors:
+- add_cloud_metadata: ~
+
+#output.elasticsearch:
+#  hosts: '${ELASTICSEARCH_HOSTS:elasticsearch:9200}'
+#  username: '${ELASTICSEARCH_USERNAME:}'
+#  password: '${ELASTICSEARCH_PASSWORD:}'
+
+#----------------------------- Logstash output --------------------------------
+output.logstash:
+  hosts: ["logstash:5044"]
+
+#----------------------------- Apache Kafka output --------------------------------
+#output.kafka:
+#  codec.format:
+#    string: '%{[@timestamp]} %{[message]}'
+#  hosts: ["kafka1:19092"]
+#  topic: kannel
+#  partition.round_robin:
+##    reachable_only: false
+#  required_acks: 1
+#  compression: gzip
+#  max_message_bytes: 1000000
+
+filebeat.inputs:
+- type: log
+  close_inactive: 4h
+  paths:
+#    - /usr/share/filebeat/kannel_logs/access.log
+#    - /usr/share/filebeat/kannel_logs/kannel.log
+#    - /usr/share/filebeat/kannel_logs/smpp-MED.log
+#    - /usr/share/filebeat/kannel_logs/smpp-OCI.log
+    - /usr/share/filebeat/kannel_logs/smpp-SONA.log
+    - /usr/share/filebeat/kannel_logs/smpp-SONA.log.1
